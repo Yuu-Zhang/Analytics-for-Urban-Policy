@@ -1,3 +1,4 @@
-# Analytics-for-Urban-Policy
+> ✌️ I am pleased to share this project, completed as part of the module <em>Analytics for Urban Policy</em>. I achieved a distinction grade of 72% for this work.
+<h2> Analysing Childhood Obesity Rates Across London Boroughs Using Machine Learning Technologies </h2>
+This project developed machine learning models to analyse childhood obesity rates across London boroughs, focusing on the impact of urban environments and socioeconomic factors. The research integrated data from multiple sources, including the distribution of fast-food outlets, sports facility density, crime rates, and air quality, to conduct exploratory data analysis. Various predictive models, such as Gradient Boosting and Random Forest, are developed and compared for their accuracy. Additionally, clustering algorithms are used to group boroughs with similar characteristics, providing targeted policy recommendations, such as enhancing sports facilities, reducing crime rates, and improving air quality. The study aims to support the government in optimising public health policies and urban planning strategies.
 
-Under updating
